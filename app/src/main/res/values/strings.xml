@@ -1,5 +1,26 @@
 <resources>
     <string name="app_name">GitFlowG2</string>
+    <string name="title_rectangulo">RECTÁNGULO</string>
+    <string name="ingrese_ancho">Ingrese Ancho</string>
+    <string name="ingrese_largo">Ingrese Largo</string>
+    <string name="perimetrorect">Valor Perimetro</string>
+    <string name="hallar_perimetrorectangulo">Hallar Perimetro</string>
+    <string name="textlargo">Largo:</string>
+    <string name="textancho">Ancho:</string>
+
+    <string name="triangulo_area">Triangulo Area </string>
+    <string name="triangulo_per">Triangulo Perimetro </string>
+    <string name="cuadro_area">Cuadrado Area </string>
+    <string name="cuadro_per">Cuadro Perímetro</string>
+    <string name="rectangulo_area">Rectangulo Area </string>
+    <string name="rectangulo_per">Rectangulo Perimetro </string>
+    <string name="circulo_area">Circulo Area </string>
+    <string name="circulo_perimetro">Circulo Perímetro</string>
+    <string name="rombo_area">Rombo Area </string>
+    <string name="rombo_perimetro">Rombo Perímetro</string>
+    <string name="area_del_circulo">Area del circulo</string>
+    <string name="ingrese_el_radio_del_circulo">Ingrese el radio del circulo</string>
+    <string name="calcular_rea">Calcular área</string>
     <string name="tiutulo">Diametro del circulo</string>
     <string name="app_name2">Areas y perimetros</string>
     <string name="calcular">Calcular</string>
