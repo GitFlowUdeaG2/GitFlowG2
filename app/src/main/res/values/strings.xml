@@ -24,4 +24,10 @@
     <string name="base_triangulo">Base</string>
     <string name="altura_triangulo">Altura</string>
     <string name="calculo_area_triangulo">Calcular</string>
+    <string name="tiutulo">Diametro del circulo</string>
+    <string name="app_name2">Areas y perimetros</string>
+    <string name="calcular">Calcular</string>
+    <string name="r_diame">El diametro es: </string>
+    <string name="radio">Radio</string>
+
 </resources>

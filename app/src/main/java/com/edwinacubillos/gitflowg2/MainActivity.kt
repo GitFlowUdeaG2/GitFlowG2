@@ -20,5 +20,13 @@ class MainActivity : AppCompatActivity() {
         var intentcirarea= Intent(this, AreaCirculoActivity::class.java)
         startActivity(intentcirarea)
     }
+    bt_triangulo_area.setOnClickListener{
+        val intent= Intent(this, AreaActivity::class.java)
+        startActivity(intent)
+    }
+    bt_circulo_per.setOnClickListener{
+        var intentcir= Intent(this, Circulo_Peri_Activity::class.java)
+        startActivity(intentcir)
+    }
     }
 }
