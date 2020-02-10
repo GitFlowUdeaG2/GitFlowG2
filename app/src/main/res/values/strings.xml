@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">GitFlowG2</string>
+    <string name="triangulo_area">Triangulo Area </string>
+    <string name="triangulo_per">Triangulo Perimetro </string>
+    <string name="cuadro_area">Cuadrado Area </string>
+    <string name="cuadro_per">Cuadro Perímetro</string>
+    <string name="rectangulo_area">Rectangulo Area </string>
+    <string name="rectangulo_per">Rectangulo Perimetro </string>
+    <string name="circulo_area">Cuadrado Area </string>
+    <string name="circulo_perimetro">Cuadro Perímetro</string>
+    <string name="rombo_area">Rombo Area </string>
+    <string name="rombo_perimetro">Rombo Perímetro</string>
 </resources>
