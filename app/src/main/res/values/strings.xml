@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">GitFlowG2</string>
+    <string name="title_rectangulo">RECTÁNGULO</string>
+    <string name="ingrese_ancho">Ingrese Ancho</string>
+    <string name="ingrese_largo">Ingrese Largo</string>
+    <string name="perimetrorect">Valor Perimetro</string>
+    <string name="hallar_perimetrorectangulo">Hallar Perimetro</string>
+    <string name="textlargo">Largo:</string>
+    <string name="textancho">Ancho:</string>
+
 </resources>
