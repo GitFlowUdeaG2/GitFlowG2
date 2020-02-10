@@ -14,8 +14,11 @@
     <string name="cuadro_per">Cuadro Perímetro</string>
     <string name="rectangulo_area">Rectangulo Area </string>
     <string name="rectangulo_per">Rectangulo Perimetro </string>
-    <string name="circulo_area">Cuadrado Area </string>
-    <string name="circulo_perimetro">Cuadro Perímetro</string>
+    <string name="circulo_area">Circulo Area </string>
+    <string name="circulo_perimetro">Circulo Perímetro</string>
     <string name="rombo_area">Rombo Area </string>
     <string name="rombo_perimetro">Rombo Perímetro</string>
+    <string name="area_del_circulo">Area del circulo</string>
+    <string name="ingrese_el_radio_del_circulo">Ingrese el radio del circulo</string>
+    <string name="calcular_rea">Calcular área</string>
 </resources>

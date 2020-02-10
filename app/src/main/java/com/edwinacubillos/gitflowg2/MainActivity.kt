@@ -16,5 +16,9 @@ class MainActivity : AppCompatActivity() {
         startActivity(intentrecper)
     }
 
+    bt_circulo_area.setOnClickListener{
+        var intentcirarea= Intent(this, AreaCirculoActivity::class.java)
+        startActivity(intentcirarea)
+    }
     }
 }
