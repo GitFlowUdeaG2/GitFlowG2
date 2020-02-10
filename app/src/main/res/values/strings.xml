@@ -21,4 +21,10 @@
     <string name="area_del_circulo">Area del circulo</string>
     <string name="ingrese_el_radio_del_circulo">Ingrese el radio del circulo</string>
     <string name="calcular_rea">Calcular área</string>
+    <string name="tiutulo">Diametro del circulo</string>
+    <string name="app_name2">Areas y perimetros</string>
+    <string name="calcular">Calcular</string>
+    <string name="r_diame">El diametro es: </string>
+    <string name="radio">Radio</string>
+
 </resources>
