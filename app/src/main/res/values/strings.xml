@@ -21,6 +21,9 @@
     <string name="area_del_circulo">Area del circulo</string>
     <string name="ingrese_el_radio_del_circulo">Ingrese el radio del circulo</string>
     <string name="calcular_rea">Calcular área</string>
+    <string name="base_triangulo">Base</string>
+    <string name="altura_triangulo">Altura</string>
+    <string name="calculo_area_triangulo">Calcular</string>
     <string name="tiutulo">Diametro del circulo</string>
     <string name="app_name2">Areas y perimetros</string>
     <string name="calcular">Calcular</string>
